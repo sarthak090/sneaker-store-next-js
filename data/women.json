@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/img/women1.png",
+    "title": "Nike Free TR",
+    "price": 129.99,
+    "id": "lmup"
+  },
+  {
+    "img": "/assets/img/women2.png",
+    "title": "Nike GS Pink",
+    "price": 149.99,
+    "id": "vljd"
+  },
+  {
+    "img": "/assets/img/women3.png",
+    "title": "Nike Get 5",
+    "price": 129.99,
+    "id": "dzzm"
+  }
+]
